@@ -18,7 +18,7 @@ N/A
 * Elements follow a logical structure independent of styling and positioning (H1, H2, H3, etc.) to improve content organization.
 * Ensured the webpage is responsive and user friendly.
 * Accessible alt attributes for image elements
-* Included comments/HTML tags for better readabilility and structure. 
+* Included comments/HTML tags for better readability and structure. 
 
 
 ## Credits
