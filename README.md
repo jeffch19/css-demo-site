@@ -14,10 +14,11 @@ N/A
 ## Usage
 ***
 
-* Updated page titles, descriptions, and tags to include relevant keywords, improving search engine ranking and click rates.
+* Updated page titles, descriptions, and tags to include relevant keywords, improving search engine results.
 * Elements follow a logical structure independent of styling and positioning (H1, H2, H3, etc.) to improve content organization.
 * Ensured the webpage is responsive and user friendly.
 * Accessible alt attributes for image elements
+* Included comments/HTML tags for better readabilility and structure. 
 
 
 ## Credits
